@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,400;1,500&display=swap');
+.navbar{
+	display: flex;
+	align-items: center;
+	padding: 20px;
+
+}
+.navbar img{
+	width: 30%;
+}
+.navbar li{
+	color: black;
+	font-family: 'Nunito', sans-serif;
+}
